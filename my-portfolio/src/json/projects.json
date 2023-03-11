@@ -1,0 +1,34 @@
+[   
+    {
+        "image": "https://i.imgur.com/6qk8OIn.png" ,
+        "name": "Shredbuddy",
+        "description":"An event planner designed to create and manage skiing and snowboarding trips." ,
+        "techonolgies": "Django, Django Rest Framework, React.js, Node.js, Material UI, Styled Components, Javascript, CSS3, HTML5, React calendar",
+        "github": "https://github.com/calebhart11/shredbuddy-frontend",
+        "live": "https://chipper-moonbeam-33362b.netlify.app/"
+    },
+    {
+        "image": "https://i.imgur.com/RvnSpkv.png" ,
+        "name": "CETAMD",
+        "description":"A personal event tracker and calander designed for artists, making it easy to track birthdays, gigs, or anything in between." ,
+        "techonolgies": "MongoDB, Express.js, React.js, Node.js, Mongoose, SASS, Javascript, CSS3, HTML5, Google calendar API",
+        "github": "https://github.com/rawlenightlong/cetamdfrontend",
+        "live": "https://cetamdreact.onrender.com/"
+    },
+    {
+        "image": "https://i.imgur.com/spfu7Yz.png",
+        "name": "What's For Dinner?",
+        "description": "A web app designed for users who want an easy way to choose what you want to eat for dinner.",
+        "techonolgies": "Express.js, Node.js, MongoDB, Mongoose, EJS, Javascript, CSS3, HTML5",
+        "github": "https://github.com/calebhart11/Unit-2-project",
+        "live": "https://whats-for-dinner-t3y0.onrender.com/"
+    },
+    {
+        "image": "https://i.imgur.com/o2n5og7.png",
+        "name": "Pokedex",
+        "description": "A customized pokedex application leveraging data from the pokeapi.",
+        "techonolgies": "Express.js, Node.js, EJS, Javascript, CSS3, HTML5, PokeAPI",
+        "github": "https://github.com/calebhart11/Pokedex-App",
+        "live": "https://pokedex-yoqt.onrender.com/pokemon"
+    }
+]
