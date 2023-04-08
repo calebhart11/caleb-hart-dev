@@ -12,6 +12,12 @@
 html{
   scroll-behavior: smooth;
 }
+/* .sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  opacity: .9
+} */
 
 h1, h2, h3 , h4, h5, h6 {
   font-family: 'Montserrat', sans-serif;
