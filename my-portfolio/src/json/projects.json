@@ -1,11 +1,19 @@
 [   
     {
+        "image": "https://i.imgur.com/nDCs7SC.png" ,
+        "name": "Gnarbazaar" ,
+        "description": "The next big E-commerce platform, designed for creators in the custom merchandising space.",
+        "technologies": "Next.js, Tailwind.css, React.js, MongoDB, Node.js, Express.js, Javascript, CSS3, HTML5",
+        "github": "https://github.com/calebhart11/Gnarbazaar-frontend",
+        "live": "https://gnarbazaar.netlify.app/"
+    },
+    {
         "image": "https://i.imgur.com/6qk8OIn.png" ,
         "name": "Shredbuddy",
         "description":"An event planner designed to create and manage skiing and snowboarding trips." ,
         "techonolgies": "Django, Django Rest Framework, React.js, Node.js, Material UI, Styled Components, Javascript, CSS3, HTML5, React calendar",
         "github": "https://github.com/calebhart11/shredbuddy-frontend",
-        "live": "https://chipper-moonbeam-33362b.netlify.app/"
+        "live": "https://shredbuddy.netlify.app"
     },
     {
         "image": "https://i.imgur.com/RvnSpkv.png" ,

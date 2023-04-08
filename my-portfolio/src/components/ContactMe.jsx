@@ -21,8 +21,8 @@ export function EmailForm() {
       
      }
      const templateParams = {
-      email_id: document.getElementById("email_id"),
-      message: document.getElementById("message")
+      email_id: document.getElementById({email_id}),
+      message: document.getElementById({message})
     }
      emailjs.send('service_fx40txf', 'template_atav6t7',templateParams, 'KkpocgmcZyh4NGqWp')
   };
@@ -31,6 +31,7 @@ export function EmailForm() {
     <>
     <h1>Contact Me!</h1>
     <FormContainer>
+      <h2>caleb_hart11@yahoo.com</h2>
       <div id="formlink">
       {/* <h2>Get In Touch!</h2> */}
     <form onSubmit={handleSubmit}>

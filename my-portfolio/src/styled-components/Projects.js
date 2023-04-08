@@ -8,7 +8,7 @@ flex-wrap: wrap;
 // overflow: row-wrap;
 flex-flow: row-wrap;
 padding: 2%;
-justify-content: space-around;
+justify-content: space-between;
 background-color: ${theme.color8}
 
 text-align: center;
