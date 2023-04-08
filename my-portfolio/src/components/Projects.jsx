@@ -14,7 +14,7 @@ export default function Projects() {
                 <h3>{project.name}</h3>
                 <ProjectImage src={project.image}/>
                 <p>{project.description}</p>
-                <ProjectLink href={project.github}>Github</ProjectLink>
+                <ProjectLink href={project.github}target='_blank'>Github</ProjectLink>
                 <ProjectLink href={project.live}target='_blank'>Live Site</ProjectLink>
 
             </ProjectCard>)
