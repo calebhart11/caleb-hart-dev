@@ -16,7 +16,7 @@ function App() {
   return (
     <>
     {/* <div className="hidden"> */}
-      <div className='show'>
+    <div className='show'>
     <div className="App">
       
         {/* <HiddenElements> */}
@@ -27,8 +27,8 @@ function App() {
       <EmailForm/>
       {/* </HiddenElements> */}
         
-      </div>
-      </div>
+    </div>
+    </div>
     {/* </div> */}
     </>
   )

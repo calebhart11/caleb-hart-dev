@@ -19,6 +19,7 @@ max-width:80vw;
 margin: 0 auto;
 border: 2px solid ${theme.color7};
 border-radius: 20px;
+margin-top: 18em;
 display: flex;
 flex-direction: column;
 // flex-flow: wrap;

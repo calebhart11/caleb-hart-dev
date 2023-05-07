@@ -12,19 +12,19 @@
 html{
   scroll-behavior: smooth;
 }
-/* .sticky {
+.sticky {
   position: fixed;
   top: 0;
   width: 100%;
-  opacity: .9
-} */
+  opacity: .8 ;
+}
 
 h1, h2, h3 , h4, h5, h6 {
   font-family: 'Montserrat', sans-serif;
   padding: 10px;
   color: #fbc12d;
   /* color: #2DD881; */
-  max-width:80%;
+  max-width:50%;
   text-align: center;
   justify-content: center;
   display: flex;
